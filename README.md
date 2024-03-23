@@ -10,6 +10,7 @@ A curated list of open-source projects used in nuclear power plant dynamics.
 
 ### Libraries: OpenModelica
 - [ThermoPower](https://github.com/casella/ThermoPower) — dynamic modelling of thermal power plants and energy conversion systems
+- [ ThermoSysPro](https://github.com/ThermoSysPro/ThermoSysPro) — modeling and simulation of thermal power plants
 
 ## Codes: CFD
 - [OpenFOAM](https://www.openfoam.com/) — Finite volume CFD code
