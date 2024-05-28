@@ -2,8 +2,11 @@
 
 A curated list of open-source projects used in nuclear power plant dynamics.
 
-## Codes - Neutronics (Deterministic)
+(Windows dependent codes excluded)
 
+## Codes - Neutronics 
+
+(Stochastic, lattice level, transport theory based codes excluded)
 
 | Code                                      | Brief Description                                                       | Major Programming Language | Numerical Library              |
 | ----------------------------------------- | ----------------------------------------------------------------------- | -------------------------- | ------------------------------ |
@@ -31,3 +34,15 @@ A curated list of open-source projects used in nuclear power plant dynamics.
 - [CoolProp](http://coolprop.org/) — thermodynamic and transport property database for fluids
 - [ht](https://github.com/CalebBell/ht) — heat transfer correlations
 - [fluids](https://github.com/CalebBell/fluids) — pressure drop correlations
+
+To be evaluated:
+- Raven
+- MOOSE
+- PreCICE
+- TRUST
+- ARMI
+- Enrico
+- CMB
+- Salome
+- PyNE
+- WATTS
